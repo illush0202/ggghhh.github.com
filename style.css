@@ -1,0 +1,16 @@
+h1 { text-align: center;}
+body
+{
+    background: url(sunset.jpg); width: 1920;
+    height: auto;
+}
+h2 {text-align: center;}
+
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1500px;
+    height: 500;
+    
+}
